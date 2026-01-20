@@ -38,7 +38,7 @@ The platform asks sellers to upload a text description and multiple images of th
 ## Screenshots
 
 ### Login Page
-![Login](../images/log-in.png)
+![Login](Amazify/images/log-in.png)
 
 ### Sign Up Page
 ![Sign Up](../images/sign-up.png)
