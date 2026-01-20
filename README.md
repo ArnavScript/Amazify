@@ -38,20 +38,20 @@ The platform asks sellers to upload a text description and multiple images of th
 ## Screenshots
 
 ### Login Page
-![Login](./images/log-in.png)
+![Login](../images/log-in.png)
 
 ### Sign Up Page
-![Sign Up](./images/sign-up.png)
+![Sign Up](../images/sign-up.png)
 
 ### Admin Page
-![Admin Page](./images/admin-page.png)
+![Admin Page](../images/admin-page.png)
 
 ### Product Form
-![Product Form](./images/product-form.png)
+![Product Form](../images/product-form.png)
 
 ### Accuracy Data
-![Accuracy Data](./images/accuracy-data.png)
-![Image Dataset](./images/image-dataset.jpeg)
+![Accuracy Data](../images/accuracy-data.png)
+![Image Dataset](../images/image-dataset.jpeg)
 ![Validation Set](./images/validation-set.jpeg)
 ![Dataset Split](./images/dataset-split.jpeg)
 ![Charts](./images/charts.jpeg)
