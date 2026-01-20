@@ -84,3 +84,8 @@ Amazify provides an automated AI-powered solution to reduce fraudulent listings 
 1. Install XAMPP.  
 2. Copy the `Amazify` folder to:  
 
+### Screenshots
+
+# Login Page
+![Login Page](images/log-in.png)
+
