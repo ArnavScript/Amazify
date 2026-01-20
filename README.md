@@ -41,20 +41,20 @@ The platform asks sellers to upload a text description and multiple images of th
 ![Login](Amazify/images/log-in.png)
 
 ### Sign Up Page
-![Sign Up](../images/sign-up.png)
+![Sign Up](Amazify/images/sign-up.png)
 
 ### Admin Page
-![Admin Page](../images/admin-page.png)
+![Admin Page](Amazify/images/admin-page.png)
 
 ### Product Form
-![Product Form](../images/product-form.png)
+![Product Form](Amazify/images/product-form.png)
 
 ### Accuracy Data
-![Accuracy Data](../images/accuracy-data.png)
-![Image Dataset](../images/image-dataset.jpeg)
-![Validation Set](./images/validation-set.jpeg)
-![Dataset Split](./images/dataset-split.jpeg)
-![Charts](./images/charts.jpeg)
+![Accuracy Data](Amazify/images/accuracy-data.png)
+![Image Dataset](Amazify/images/image-dataset.jpeg)
+![Validation Set](Amazify/images/validation-set.jpeg)
+![Dataset Split](Amazify/images/dataset-split.jpeg)
+![Charts](Amazify/images/charts.jpeg)
 
 ---
 
